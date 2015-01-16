@@ -238,7 +238,7 @@ function funrbTwitterPluginMenu()
  // در منو لود می کند و مشخصات به نمایش می گذارد
        
 	add_menu_page('توییت پرس', 'توییت پرس', 'manage_options', 'rb-tweet-post-demo-plugin', 'funRbtweetOptionPage', 
-				$dir.'logo.png',99);
+				$dir.'img.png',99);
   //			
  add_submenu_page('rb-tweet-post-demo-plugin','گزارش', 'گزارش', 'manage_options',
                   'rb-tweet-post-report-demo-plugin', 'funRbtweetOptionPageReport');
