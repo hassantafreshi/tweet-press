@@ -1,5 +1,5 @@
 
-== Description ==
+
 # tweet-press
 This is a plugin for WordPress and share last post on Twitter with post title and shortLink of post.
 links are shorting by goo.gl service.
